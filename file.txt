@@ -4,4 +4,8 @@ New Line and commnet added
 I added some bug fixed. 
 =======
 Only bug fix in new feature branch
+<<<<<<< HEAD
+>>>>>>> newfeature
+=======
+The is the new line today in the new newfeature
 >>>>>>> newfeature
