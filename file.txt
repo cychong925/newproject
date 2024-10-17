@@ -1,3 +1,7 @@
 This is file.txt 
 New Line and commnet added
+<<<<<<< HEAD
 I added some bug fixed. 
+=======
+Only bug fix in new feature branch
+>>>>>>> newfeature
