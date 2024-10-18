@@ -1,2 +1,6 @@
 This is file3.txt
+<<<<<<< HEAD
 Want to add something here
+=======
+This is the new bug fix on Oct 18
+>>>>>>> newfeature
