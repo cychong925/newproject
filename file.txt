@@ -1,11 +1,1 @@
-This is file.txt 
-New Line and commnet added
-<<<<<<< HEAD
-I added some bug fixed. 
-=======
-Only bug fix in new feature branch
-<<<<<<< HEAD
->>>>>>> newfeature
-=======
-The is the new line today in the new newfeature
->>>>>>> newfeature
+This is the file1 for the newfunction
